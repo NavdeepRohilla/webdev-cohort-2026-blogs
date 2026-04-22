@@ -23,3 +23,6 @@
 
 ## CSS 
 1. CSS Selectors : https://css-selectors-by-navdeep.hashnode.dev/css-selectors-101-targeting-elements-with-precision
+
+## Linux
+1. Linux File System : https://linux-file-system-navdeep.hashnode.dev/linux-file-system-hunting
